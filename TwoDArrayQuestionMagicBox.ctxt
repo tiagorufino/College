@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TwoDArrayQuestionMagicBox
+comment1.params=
+comment1.target=void\ main()
+comment2.params=magicBox\ valueOfMagic
+comment2.target=boolean\ testValue(int[][],\ int)
+numComments=3

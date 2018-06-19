@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=StudentsMarks
+comment1.params=mockNames\ mockMarks
+comment1.target=void\ main(java.lang.String[],\ double[])
+comment1.text=\r\n\ Main\ method\ of\ the\ program.\ The\ arguments\ need\ to\ be\ null\ if\ you\ do\ not\ want\ to\ run\ the\ mock.\r\n
+comment2.params=
+comment2.target=void\ testClass()
+comment2.text=\r\n\ Test\ class.\ Create\ a\ mock\ with\ the\ marks\ and\ the\ names\ and\ call\ the\ main\ method\ for\ test.\r\n
+comment3.params=
+comment3.target=java.lang.String\ shuffleString()
+comment3.text=\r\n\ Create\ a\ stirng\ with\ shuffles\ caracters\ using\ the\ Collection\ to\ shuffle\ the\ array\ and\ define\ a\ new\ structure\r\n
+numComments=4
